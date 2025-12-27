@@ -6,6 +6,7 @@ Bu proje, C# ve Win32 API kullanarak geliştirilmiş, eğitim amaçlı bir "Zara
 🚀 **PROJE BİLEŞENLERİ**
 
 **1. Virüs**
+
 Düşük seviyeli bir klavye kancası (WH_KEYBOARD_LL) atarak kullanıcı girişlerini dinler.
 
 Özellik: 'A' tuşu dışındaki tüm tuş vuruşlarını işletim sistemine ulaşmadan engeller.
@@ -14,6 +15,7 @@ Teknik: user32.dll üzerinden SetWindowsHookEx fonksiyonunu kullanır.
 
 
 **2. Antivirüs**
+
 Sistemde çalışan süreçleri tarayan ve imza tabanlı (isim kontrolü) temizlik yapan bir araçtır.
 
 Özellik: Virüs sürecini tespit eder ve anında sonlandırarak klavye kontrolünü kullanıcıya geri verir.
