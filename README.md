@@ -4,6 +4,7 @@ Bu proje, C# ve Win32 API kullanarak geliştirilmiş, eğitim amaçlı bir "Zara
 ---
 
 🚀 **PROJE BİLEŞENLERİ**
+
 **1. Virüs**
 Düşük seviyeli bir klavye kancası (WH_KEYBOARD_LL) atarak kullanıcı girişlerini dinler.
 
@@ -22,6 +23,7 @@ Teknik: System.Diagnostics kütüphanesini kullanır.
 ---
 
 🛠️**KURULUM VE ÇALIŞTIRMA**
+
 Visual Studio'yu "Yönetici Olarak" çalıştırın.
 
 SakaVirusu projesini derleyin (Build) ve çalıştırın.
@@ -33,6 +35,7 @@ SakaSavunma uygulamasını açın ve "Sistemi Temizle" butonuna basarak sistemi 
 ---
 
 ⚠️ **ÖNEMLİ UYARILAR**
+
 Bu proje sadece eğitim ve test amaçlıdır.
 
 Bir başkasının bilgisayarında izinsiz kullanılması etik dışıdır ve yasal sorumluluk doğurabilir.
@@ -42,6 +45,7 @@ Test sırasında Ctrl + Alt + Del kombinasyonu Windows tarafından korunduğu i�
 ---
 
 💻 **KULLANILAN TEKNOLOJİLER**
+
 Dil: C#
 
 Platform: .NET Framework
